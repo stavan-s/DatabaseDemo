@@ -32,7 +32,7 @@ public class WritePage extends AppCompatActivity {
         submitBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-c
+
                 String name = nameInput.getText().toString();
                 String email = emailInput.getText().toString();
                 String number = numberInput.getText().toString();
